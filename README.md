@@ -1,3 +1,16 @@
+# Curso de Java
+
+Material de estudio organizado por niveles. El contenido original se conserva a continuación.
+
+## Índice de niveles
+
+- [Nivel 0 - Introducción a la programación](#nivel-0---introducción-a-la-programación)
+- [Nivel 1 - Programación Orientada a Objetos (POO) básico](#nivel-1---programación-orientada-a-objetos-poo-básico)
+- [Nivel 2 - Programación Orientada a Objetos (POO) avanzado](#nivel-2---programación-orientada-a-objetos-poo-avanzado)
+- [Nivel 3 - Estructuras de datos y algoritmos](#nivel-3---estructuras-de-datos-y-algoritmos)
+
+---
+
 ---
 title: "Curso de Java desde cero"
 author:
